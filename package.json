@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fegm22/hexagonal-architecture-presentation.git"
+    "url": "git+https://github.com/garrido-mosqueira/hexagonal-architecture-presentation.git"
   },
-  "author": "Francisco Garrido Mosqueira",
+  "author": "Fran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fegm22/hexagonal-architecture-presentation/issues"
+    "url": "https://github.com/garrido-mosqueira/hexagonal-architecture-presentation/issues"
   },
-  "homepage": "https://github.com/fegm22/hexagonal-architecture-presentation#readme",
+  "homepage": "https://github.com/garrido-mosqueira/hexagonal-architecture-presentation#readme",
   "devDependencies": {
     "reveal-md": "^0.4.2"
   }
