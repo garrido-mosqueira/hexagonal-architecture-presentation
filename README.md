@@ -14,7 +14,7 @@ To make a presentation:
 *  push to github
 *  view presentation on GitHub in the project pages for your repo (or serve it locally)
 
-[Presentation](https://fegm22.github.io/hexagonal-architecture-presentation/)
+[Presentation](https://garrido-mosqueira.github.io/hexagonal-architecture-presentation/)
 
 # Usage
 
