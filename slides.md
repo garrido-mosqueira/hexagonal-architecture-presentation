@@ -280,7 +280,7 @@ grep -i 'results' HappyEngineer
 <!--s-->
 
 ```
-git clone https://github.com/fegm22/hexagonal-architecture.git
+git clone https://github.com/garrido-mosqueira/hexagonal-architecture.git
 ```
 
 ![](pictures/hexagonal_presentation.035.png)
